@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Actualité:
 👨🏾‍💼 Actuellement en stage chez legeai.informatique@gmail.com<br>📚 Découvre le C#
 
 
