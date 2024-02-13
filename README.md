@@ -1,5 +1,5 @@
 # 💫 Actualité:
-👨🏾‍💼 Actuellement en stage chez legeai.informatique@gmail.com<br>📚 Découvre le C#
+👨🏾‍💼 Actuellement à la recherche d'un poste de développeur en alternance<br>📚 Découvre le C#
 
 
 ## 🌐 Socials:
