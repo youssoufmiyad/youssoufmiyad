@@ -1,6 +1,5 @@
 # 💫 Actualité:
-👨🏾‍💼 Actuellement à la recherche d'un poste de développeur en alternance<br>📚 Apprend WPF
-
+👨🏾‍💼 Actuellement à la recherche d'un poste de développeur en alternance
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miyad-youssouf-ali-1ba879289) 
 
